@@ -16,3 +16,5 @@ Please refer to http://andreygordeev.blogspot.com/2014/11/sprite-kit-lightning.h
 I realize that these approaches may be not ideal, so pull requests are welcome!
 
 Swift version: https://github.com/andrew8712/SpriteKitLightning-Swift
+
+The code is under IDC (I don't care) license, so go ahead and create something amazing with using this effect!
